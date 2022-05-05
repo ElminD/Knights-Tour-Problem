@@ -1,0 +1,1 @@
+this knights tour problem works for a n*n grid using recursion to find all possible moves for a knight moving around the grid at every spot
